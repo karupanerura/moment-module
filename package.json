@@ -35,7 +35,7 @@
     "@nuxtjs/eslint-config": "^0.0.1",
     "babel-eslint": "^10.0.1",
     "codecov": "3.1.0",
-    "eslint": "^5.10.0",
+    "eslint": "^5.11.1",
     "eslint-config-standard": "^12.0.0",
     "eslint-loader": "^2.1.1",
     "eslint-plugin-import": "^2.14.0",
@@ -45,11 +45,11 @@
     "eslint-plugin-standard": "^4.0.0",
     "eslint-plugin-vue": "^5.0.0",
     "jest": "23.6.0",
-    "nuxt-edge": "2.4.0-25740740.f0cb654",
+    "nuxt-edge": "2.4.0-25769677.867e8e1e",
     "standard-version": "4.4.0"
   },
   "dependencies": {
-    "moment": "^2.22.2",
+    "moment": "^2.23.0",
     "moment-locales-webpack-plugin": "^1.0.7"
   }
 }
